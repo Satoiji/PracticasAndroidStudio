@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EVA1_7_Practica7</string>
+    <string name="view_nombre_es">Nombre:</string>
+    <string name="hint_nombre_es">Introduce tu nombre</string>
+    <string name="view_apellido_es">Apellido:</string>
+    <string name="hint_apellido_es">Introduce tu apellido</string>
+    <string name="view_edad_es">Edad</string>
+    <string name="hint_edad_es">Introduce tu edad</string>
+    <string name="view_nombre_en">Name:</string>
+    <string name="hint_nombre_en">Introduce your name</string>
+    <string name="view_apellido_en">Last name:</string>
+    <string name="hint_apellido_en">Introduce your last name</string>
+    <string name="view_edad_en">Age:</string>
+    <string name="hint_edad_en">Introduce your age</string>
+
+</resources>
